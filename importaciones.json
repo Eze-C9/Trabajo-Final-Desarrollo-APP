@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@es-js/sandbox/runtime" : "https://cdn.jsdelivr.net/npm/@es-js/sandbox@0.0.21/runtime/+esm",
+    "@es-js/" : "https://esm.run/@es-js/",
+    "npm/" : "https://cdn.jsdelivr.net/npm/"
+  }
+}
